@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207264614890",
+    "project_id": "login-22a14",
+    "storage_bucket": "login-22a14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207264614890:android:f8a4c71822df8ac5e90a93",
+        "android_client_info": {
+          "package_name": "com.youssef.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207264614890-l7c472ob36qrfr4jb69o60dg7ksmagp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiZ0IQrSRX6UsGNTGjP11o08yCIvwKogA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207264614890-l7c472ob36qrfr4jb69o60dg7ksmagp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
